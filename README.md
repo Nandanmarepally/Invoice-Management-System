@@ -66,7 +66,7 @@ The application allows users to manage invoices, including creating, reading, up
 1. **Initialize the frontend:**
    ```bash
    cd ../frontend
-   npx create-react-app .
+   npx create-react-app invoice-frontend . 
    npm install axios react-router-dom bootstrap
    ```
 
@@ -83,14 +83,6 @@ The application allows users to manage invoices, including creating, reading, up
    ```bash
    npm start
    ```
-
----
-
-## Styling and Design
-
-1. Use basic CSS for custom styling
-   Import it in `index.js`:
-   ```javascript
 
 
 
@@ -110,3 +102,26 @@ The application allows users to manage invoices, including creating, reading, up
 
 ---
 
+Screenshots : 
+1) Login : 
+
+![Screenshot (54)](https://github.com/user-attachments/assets/de82a737-7d51-4225-b08e-dd92a502e061)
+
+2) Signup :
+ 
+![Screenshot (55)](https://github.com/user-attachments/assets/4b309830-39ae-4b9d-94a2-7ca76d0e6c5b)
+
+3) HomePage :
+   ![Screenshot (56)](https://github.com/user-attachments/assets/fd0766ae-d5b7-404d-9552-e02d1a8b1013)
+
+    ![Screenshot (57)](https://github.com/user-attachments/assets/72a65cfa-9225-403c-bfdc-974cc1f22e57)
+
+4) InvoiceForm :
+ ![Screenshot (58)](https://github.com/user-attachments/assets/f7801f7f-03fe-492b-976c-1c610a9552d4)
+![Screenshot (59)](https://github.com/user-attachments/assets/f68d8afe-d68f-4304-bc8d-30edd4d41b14)
+
+![Screenshot (60)](https://github.com/user-attachments/assets/aa5f0b7c-41e1-41d3-aeab-5a8103bf6769)
+
+   
+
+  
