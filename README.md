@@ -88,26 +88,11 @@ The application allows users to manage invoices, including creating, reading, up
 
 ## Styling and Design
 
-1. Use basic CSS for custom styling.
-2. Optionally install and use Bootstrap:
-   ```bash
-   npm install bootstrap
-   ```
+1. Use basic CSS for custom styling
    Import it in `index.js`:
    ```javascript
-   import 'bootstrap/dist/css/bootstrap.min.css';
-   ```
 
-### Frontend Deployment
 
-1. Build the frontend:
-   ```bash
-   npm run build
-   ```
-2. Deploy on [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/).
-3. Ensure the frontend's API requests point to the deployed backend.
-
----
 
 ## Usage Instructions
 
@@ -124,11 +109,4 @@ The application allows users to manage invoices, including creating, reading, up
 3. Access the application at `http://localhost:3000`.
 
 ---
-
-## Acknowledgments
-
-- [React](https://reactjs.org/)
-- [Express.js](https://expressjs.com/)
-- [Bootstrap](https://getbootstrap.com/)
-- [MongoDB](https://www.mongodb.com/)
 
